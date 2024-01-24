@@ -1,3 +1,20 @@
 *{
     font-family: 'Manrope', sans-serif;
 }
+.back1{
+    background-image: url("Images/2.png");
+}
+.back2{
+    background-image: url("Images/3.png");
+}
+
+.back3{
+    background-image: url("Images/4.png");
+}
+
+.trueclr{
+    background-color: #FF4240;
+}
+.wht{
+    color: white;
+}
